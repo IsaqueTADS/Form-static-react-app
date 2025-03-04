@@ -38,7 +38,7 @@ const Form = () => {
   return (
     <div className="paiForm">
       <div>
-        <img src="./public/img/animate.svg" alt="" />
+        <img src="/public/img/animate.svg" alt="" />
       </div>
 
       <form onSubmit={lidarComEnvio} className="formulario-container">
